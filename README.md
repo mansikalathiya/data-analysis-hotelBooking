@@ -56,11 +56,22 @@ The plots show how the Average Daily Rate (ADR) fluctuates for canceled vs. non-
 ### Graphs
 You can find the visualizations in the `images` folder:
 
-- ![Cancellation vs Non-Cancellation Bookings](images/Cancellation_vs_Non-Cancellation.png)
-- ![ADR Fluctuations](images/adr_fluctuation_graph1.png)
-- ![Additional Insights](images/additional_insights_graph3.png)
-- ![Revenue Impact](images/revenue_impact_graph4.png)
-- ![Trends Over Time](images/trends_over_time_graph5.png)
+## Key Visualizations and Insights
+
+### 1. Overall Reservation Status
+[View Image](images/Overall_Reservation_Status.png)
+
+### 2. Reservation Status by Hotel Type
+[View Image](images/Reservation_Status_by_Hotel_Type.png)
+
+### 3. Monthly Reservation Trends
+[View Image](images/Monthly_Reservation_Trends.png)
+
+### 4. Average Daily Rate (ADR) per Month
+[View Image](images/ADR_per_Month.png)
+
+### 5. Cancellation Rates by Country (Top 10)
+[View Image](images/Cancellation$20rate%20in%20countries.png)
 
 Feel free to explore the images for detailed visual insights!
 
