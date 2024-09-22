@@ -56,8 +56,8 @@ The plots show how the Average Daily Rate (ADR) fluctuates for canceled vs. non-
 ### Graphs
 You can find the visualizations in the `images` folder:
 
+- ![Cancellation vs Non-Cancellation Bookings](images/Cancellation_vs_Non-Cancellation.png)
 - ![ADR Fluctuations](images/adr_fluctuation_graph1.png)
-- ![Cancellation vs Non-Cancellation](images/cancellation_vs_non_cancellation_graph2.png)
 - ![Additional Insights](images/additional_insights_graph3.png)
 - ![Revenue Impact](images/revenue_impact_graph4.png)
 - ![Trends Over Time](images/trends_over_time_graph5.png)
