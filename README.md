@@ -53,24 +53,25 @@ To understand how ADR changes over time, we plotted line charts comparing ADR fo
 
 The plots show how the Average Daily Rate (ADR) fluctuates for canceled vs. non-canceled reservations over time. Understanding these fluctuations provides businesses with valuable insights into how pricing decisions affect cancellations and overall revenue.
 
-### Graphs
-You can find the visualizations in the `images` folder:
 
-## Key Visualizations and Insights
+## 🔑 Key Visualizations and Insights
 
 ### 1. Overall Reservation Status
-[View Image](images/Overall_Reservation_Status.png)
+[View Image](images/Cancellation%20vs%20Non-Cancellation.png)
 
 ### 2. Reservation Status by Hotel Type
-[View Image](images/Reservation_Status_by_Hotel_Type.png)
+[View Image](images/Reservation%20Status%20in%20hotels.png)
 
 ### 3. Monthly Reservation Trends
-[View Image](images/Monthly_Reservation_Trends.png)
+[View Image]( images/Reservation%20status.png)
 
-### 4. Average Daily Rate (ADR) per Month
-[View Image](images/ADR_per_Month.png)
+### 4. Average Daily Rate (ADR) between Hotels
+[View Image](images/ADR%20Fluctuations%20in%20Hotels.png)
 
-### 5. Cancellation Rates by Country (Top 10)
+### 5. Average Daily Rate (ADR) per Month
+[View Image](images/ADR%20fluctuation%20between%20months.png)
+
+### 6. Cancellation Rates by Country (Top 10)
 [View Image](images/Cancellation%20rate%20in%20countries.png)
 
 Feel free to explore the images for detailed visual insights!
