@@ -57,7 +57,7 @@ The plots show how the Average Daily Rate (ADR) fluctuates for canceled vs. non-
 ## 🔑 Key Visualizations and Insights
 
 ### 1. Overall Reservation Status
-[View Image](images/Cancellation%20vs%20Non-Cancellation.png)
+[View Image](images/Cancellation_vs_Non-Cancellation.png)
 
 ### 2. Reservation Status by Hotel Type
 [View Image](images/Reservation%20Status%20in%20hotels.png)
