@@ -71,7 +71,7 @@ You can find the visualizations in the `images` folder:
 [View Image](images/ADR_per_Month.png)
 
 ### 5. Cancellation Rates by Country (Top 10)
-[View Image](images/Cancellation$20rate%20in%20countries.png)
+[View Image](images/Cancellation%20rate%20in%20countries.png)
 
 Feel free to explore the images for detailed visual insights!
 
