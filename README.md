@@ -47,7 +47,7 @@ not_cancelled_df_adr = not_cancelled_df_adr[
 ### 2. **Trend Analysis**
 To understand how ADR changes over time, we plotted line charts comparing ADR for both cancelled and non-cancelled bookings. This analysis provides insights into potential differences in pricing strategies and can be useful for identifying trends that might impact future decision-making.
 
-![Screenshot 2024-09-22 123002](https://github.com/user-attachments/assets/6d57b8a1-1231-4286-aff1-b0ad1178f732)
+![Screenshot 2024-09-22 123002](https://github.com/user-attachments/assets/0204dec6-0bcb-4bba-9005-54214d43a915)
 
 ## 3. Visualization Output
 
